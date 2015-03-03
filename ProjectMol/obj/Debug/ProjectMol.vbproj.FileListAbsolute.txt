@@ -1,0 +1,14 @@
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\bin\Debug\ProjectMol.exe.config
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\bin\Debug\ProjectMol.exe
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\bin\Debug\ProjectMol.pdb
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\bin\Debug\ProjectMol.xml
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.Resources.resources
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.vbproj.GenerateResource.Cache
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.exe
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.xml
+c:\users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.pdb
+C:\Users\asare\documents\visual studio 2013\Projects\ProjectMol\ProjectMol\bin\Debug\App.config
+G:\projects\ProjectMol\ProjectMol\bin\Debug\ProjectMol.exe.config
+G:\projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.exe
+G:\projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.xml
+G:\projects\ProjectMol\ProjectMol\obj\Debug\ProjectMol.pdb
